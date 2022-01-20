@@ -17,8 +17,8 @@ Componentele principale care formează structura platformei sunt:
 
 ### Tehnologii folosite
 + Frontend
-   + Interfața cu care interacționează utilizatorul se realizeaza folosind limbajul de programare  Javascript, împreună cu limbajul de marcare HTML și CSS. Pentru interfața web se folosește și framework-ul Angular.
+   + Interfața cu care interacționează utilizatorul se realizeaza folosind limbajul de programare Javascript, împreună cu limbajul de marcare HTML și CSS. Pentru interfața web se folosește și framework-ul Angular.
 + Backend
-  + Pentru implementarea server-ului web seutilizeazăAngulardevserver.Aceastafacilitează managerierea paginilor web, trimiterea și primirea de cereri prin capabilitățile puse la dispoziție de server-ului web.
+  + Pentru implementarea server-ului web seutilizează Angular dev server.Aceasta facilitează managerierea paginilor web, trimiterea și primirea de cereri prin capabilitățile puse la dispoziție de server-ului web.
   + Tehnologiile folosite pentru implementarea server-ului de servicii web sunt: Java,framework-ul Spring și facilitățile oferite de acesta.
   + Tipul de bază de date pe care o va folosi platforma este MySQL. 

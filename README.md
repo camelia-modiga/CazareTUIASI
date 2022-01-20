@@ -7,7 +7,7 @@ Mihalache Ecaterina <br />
 Modiga Camelia <br />
 Morosan Carla
 
-### *Cazare- TUIASI* este proiectat după arhitectura client-server. Aceasta arhitectura constă în comunicarea la distanta intre mai multe componente printr-un protocol de comunicatie web, prin trimiterea de cereri pentru obținerea resurselor și primirea de răspunsuri cu resursele aferente.
+### *Cazare-TUIASI* este proiectat după arhitectura client-server. Aceasta arhitectura constă în comunicarea la distanta intre mai multe componente printr-un protocol de comunicatie web, prin trimiterea de cereri pentru obținerea resurselor și primirea de răspunsuri cu resursele aferente.
 
 Componentele principale care formează structura platformei sunt:
 + Interfața cu utilizatorul: fereastra de comunicare cu utilizatorul.
